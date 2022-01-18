@@ -32,6 +32,13 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 * Trees Do Not Float: [CurseForge](https://aternos.org/addons/a/cursefabric/trees-do-not-float)
 
 ## Sleep related mods
+* BetterSleeping: [CurseForge](https://aternos.org/addons/a/cursefabric/bettersleeping)
+* BetterSleeping Revived: [CurseForge](https://aternos.org/addons/a/cursefabric/bettersleeping-revived)
+* Hypnos: [CurseForge](https://aternos.org/addons/a/cursefabric/hypnos)
+* Sewing Machine Utilities: [CurseForge](https://aternos.org/addons/a/cursefabric/sewing-machine-utilities)
+* BetterSleepPlus: [CurseForge](https://aternos.org/addons/a/cursefabric/bettersleepplus)
+* Day Dream: [CurseForge](https://aternos.org/addons/a/cursefabric/day-dream)
+* Better Safe Bed: [CurseForge](https://aternos.org/addons/a/cursefabric/better-safe-bed)
 
 ## Combat related mods
 
