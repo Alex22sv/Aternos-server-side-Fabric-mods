@@ -5,6 +5,18 @@ If you find a server-side mod that is available on the Aternos website but it's 
 Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursefabric/fabric-api).
 
 ## Performance mods
+* Phosphor: [CurseForge](https://aternos.org/addons/a/cursefabric/phosphor) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/hEOCdOgW)
+* Lithium: [CurseForge](https://aternos.org/addons/a/cursefabric/lithium) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/gvQqBUqZ)
+* Fast Furnace for Fabric: [CurseForge](https://aternos.org/addons/a/cursefabric/fast-furnace-for-fabric)
+* RandomPatches: [CurseForge](https://aternos.org/addons/a/cursefabric/randompatches-fabric) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/JmtW1Cr5)
+* Overworld Two: [CurseForge](https://aternos.org/addons/a/cursefabric/overworld-two)
+* Krypton: [CurseForge](https://aternos.org/addons/a/cursefabric/krypton) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/fQEb0iXm)
+* Starlight: [CurseForge](https://aternos.org/addons/a/cursefabric/starlight) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/H8CaAYZC)
+* LazyDFU: [CurseForge](https://aternos.org/addons/a/cursefabric/lazydfu) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/hvFnDODi)
+* Hydrogen: [Modrinth](https://modrinth.com/mod/hydrogen)
+* FerritCore: [CurseForge](https://aternos.org/addons/a/cursefabric/ferritecore-fabric) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/uXXizFIs)
+* Recipe Cache: [CurseForge](https://aternos.org/addons/a/cursefabric/recipe-cache)
+* Very Many Players: [Modrinth](https://aternos.org/addons/a/modrinthfabric/wnEe9KBa)
 
 ## Building mods
 
