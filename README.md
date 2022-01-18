@@ -22,6 +22,14 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 * WorldEdit: [CurseForge](https://aternos.org/addons/a/cursefabric/worldedit)
 
 ## Tree related mods
+* Leaf Decay: [CurseForge](https://aternos.org/addons/a/cursefabric/leaf-decay)
+* Fast Leaves: [CurseForge](https://aternos.org/addons/a/cursefabric/fast-leaves)
+* FastDecay: [CurseForge]() or [Modrinth](https://aternos.org/addons/a/modrinthfabric/hMiEqUvR)
+* Leaf Me Alone: [CurseForge](https://aternos.org/addons/a/cursefabric/leaf-me-alone)
+* Fabric Tree Chopper: [CurseForge](https://aternos.org/addons/a/cursefabric/fabric-tree-chopper)
+* FallingTree: [CurseForge](https://aternos.org/addons/a/cursefabric/falling-tree) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/Fb4jn8m6)
+* Tree Felling: [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tree-felling-fabric)
+* Trees Do Not Float: [CurseForge](https://aternos.org/addons/a/cursefabric/trees-do-not-float)
 
 ## Sleep related mods
 
