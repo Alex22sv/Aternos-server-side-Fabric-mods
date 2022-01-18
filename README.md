@@ -19,6 +19,7 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 * Very Many Players: [Modrinth](https://aternos.org/addons/a/modrinthfabric/wnEe9KBa)
 
 ## Building mods
+* WorldEdit: [CurseForge](https://aternos.org/addons/a/cursefabric/worldedit)
 
 ## Tree related mods
 
