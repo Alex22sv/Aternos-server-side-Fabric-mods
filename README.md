@@ -41,6 +41,10 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 * Better Safe Bed: [CurseForge](https://aternos.org/addons/a/cursefabric/better-safe-bed)
 
 ## Combat related mods
+* CombatEdit: [CurseForge](https://aternos.org/addons/a/cursefabric/combatedit)
+* Headshot: [CurseForge](https://aternos.org/addons/a/cursefabric/headshot)
+* Axes Are Weapons: [CurseForge](https://aternos.org/addons/a/cursefabric/axes-are-weapons) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/1jvt7RTc)
+* Perfect Accuracy: [Modrinth](https://aternos.org/addons/a/modrinthfabric/ochFsQSn)
 
 ## Mods for enchanting & enchantments
 
