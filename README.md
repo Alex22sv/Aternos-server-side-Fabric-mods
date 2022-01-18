@@ -3,6 +3,7 @@ List of server-side mods that are avaiable for [Aternos](https://aternos.org/).
 
 If you find a server-side mod that is available on the Aternos website but it's not in this list, please open a Pull Request to submit the new mod.
 Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursefabric/fabric-api).
+**SECOND NOTE: THIS LIST IS NOT FINISHED YET, SOME MODS ARE STILL MISSING AND WILL BE ADDED SOON.**
 
 ## Performance mods
 * Phosphor: [CurseForge](https://aternos.org/addons/a/cursefabric/phosphor) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/hEOCdOgW)
