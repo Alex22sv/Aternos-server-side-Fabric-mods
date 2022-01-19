@@ -56,6 +56,33 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 * Better Impaling: [CurseForge](https://aternos.org/addons/a/cursefabric/better-impaling)
 
 ## Mobs related mods
+* Environmental Creepers: [CurseForge](https://aternos.org/addons/a/cursefabric/environmental-creepers)
+* Daylight Mobs: [CurseForge](https://aternos.org/addons/a/cursefabric/daylight-mobs)
+* Daylight Mobs Reborn: [CurseForge](https://aternos.org/addons/a/cursefabric/daylight-mobs-reborn)
+* Farsighted Mobs: [CurseForge](https://aternos.org/addons/a/cursefabric/farsighted-mobs)
+* Custom Spawns: [CurseForge](https://aternos.org/addons/a/cursefabric/custom-spawns)
+* Always Drop Loot: [CurseForge](https://aternos.org/addons/a/cursefabric/always-drop-loot)
+* Project: Save the Pets!: [CurseForge](https://aternos.org/addons/a/cursefabric/projectsavethepets)
+* The Loved Ones: [CurseForge](https://aternos.org/addons/a/cursefabric/the-loved-ones)
+* Chicken Nerf: [CurseForge](https://aternos.org/addons/a/cursefabric/chicken-nerf)
+* Camp Fires Cook Mobs: [CurseForge](https://aternos.org/addons/a/cursefabric/camp-fires-cook-mobs)
+* Custom Piglin Bartering: [CurseForge](https://aternos.org/addons/a/cursefabric/custom-piglin-bartering)
+* Proper Mobcap Modifier Fabric: [CurseForge](https://aternos.org/addons/a/cursefabric/proper-mobcap-modifier-fabric)
+* Mob Rebirth: [CurseForge](https://aternos.org/addons/a/cursefabric/mob-rebirth)
+* Hauling Hogs: [CurseForge](https://aternos.org/addons/a/cursefabric/hauling-hogs)
+* Endermen are Friends: [CurseForge](https://aternos.org/addons/a/cursefabric/endermen-are-friends)
+* Unsaddle Pigs: [CurseForge](https://aternos.org/addons/a/cursefabric/unsaddle-pigs)
+* Mobs Attempt Parkour: [CurseForge](https://aternos.org/addons/a/cursefabric/mobs-attempt-parkour)
+* Name: [CurseForge]() or [Modrinth]()
+* Name: [CurseForge]() or [Modrinth]()
+* Name: [CurseForge]() or [Modrinth]()
+* Name: [CurseForge]() or [Modrinth]()
+* Name: [CurseForge]() or [Modrinth]()
+* Name: [CurseForge]() or [Modrinth]()
+* Name: [CurseForge]() or [Modrinth]()
+* Name: [CurseForge]() or [Modrinth]()
+* Name: [CurseForge]() or [Modrinth]()
+* Name: [CurseForge]() or [Modrinth]()
 
 ## Flight related mods
 
