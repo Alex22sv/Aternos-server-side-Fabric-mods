@@ -48,6 +48,12 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 * Perfect Accuracy: [Modrinth](https://aternos.org/addons/a/modrinthfabric/ochFsQSn)
 
 ## Mods for enchanting & enchantments
+* Expanded Axe Enchanting: [CurseForge](https://aternos.org/addons/a/cursefabric/expanded-axe-enchanting) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/nmJ9dZtI)
+* Expanded Armor Enchanting: [CurseForge](https://aternos.org/addons/a/cursefabric/expanded-armor-enchanting) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/mbBFD52c)
+* Expanded Trident Enchanting: [CurseForge](https://aternos.org/addons/a/cursefabric/expanded-trident-enchanting) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/nHOlhRg9)
+* Expanded Weapon Enchanting: [CurseForge](https://aternos.org/addons/a/cursefabric/expanded-weapon-enchanting) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/aa4EyFDP)
+* Grind Enchantments: [CurseForge](https://aternos.org/addons/a/cursefabric/grind-enchantments) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/WC4UgDcZ)
+* Better Impaling: [CurseForge](https://aternos.org/addons/a/cursefabric/better-impaling)
 
 ## Mobs related mods
 
