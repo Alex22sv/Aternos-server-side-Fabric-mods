@@ -73,16 +73,10 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 * Endermen are Friends: [CurseForge](https://aternos.org/addons/a/cursefabric/endermen-are-friends)
 * Unsaddle Pigs: [CurseForge](https://aternos.org/addons/a/cursefabric/unsaddle-pigs)
 * Mobs Attempt Parkour: [CurseForge](https://aternos.org/addons/a/cursefabric/mobs-attempt-parkour)
-* Name: [CurseForge]() or [Modrinth]()
-* Name: [CurseForge]() or [Modrinth]()
-* Name: [CurseForge]() or [Modrinth]()
-* Name: [CurseForge]() or [Modrinth]()
-* Name: [CurseForge]() or [Modrinth]()
-* Name: [CurseForge]() or [Modrinth]()
-* Name: [CurseForge]() or [Modrinth]()
-* Name: [CurseForge]() or [Modrinth]()
-* Name: [CurseForge]() or [Modrinth]()
-* Name: [CurseForge]() or [Modrinth]()
+* Neutral Animals: [CurseForge](https://aternos.org/addons/a/cursefabric/neutral-animals)
+* Mob proof crystals: [CurseForge](https://aternos.org/addons/a/cursefabric/mob-proof-crystals)
+* Independent Pets: [CurseForge](https://aternos.org/addons/a/cursefabric/indypets)
+* Creeper AI Updated: [CurseForge](https://aternos.org/addons/a/cursefabric/creeper-ai-updated)
 
 ## Flight related mods
 
