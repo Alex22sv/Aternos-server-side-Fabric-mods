@@ -85,7 +85,12 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 
 ## Minecarts related mods
 
-## Graves related mods
+## Graves & Death related mods
+* VanillaDeathChest: [CurseForge](https://aternos.org/addons/a/cursefabric/vanilladeathchest-fabric)
+* Universal Graves: [CurseForge](https://aternos.org/addons/a/cursefabric/universal-graves) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/yn9u3ypm)
+* Sewing Machine Utilities: [CurseForge](https://aternos.org/addons/a/cursefabric/sewing-machine-utilities)
+* Configured Keep Inventory: [CurseForge](https://aternos.org/addons/a/cursefabric/configured-keep-inventory)
+* keepinventory-command: [CurseForge](https://aternos.org/addons/a/cursefabric/keepinventory-command)
 
 ## Commands & chat related mods
 
