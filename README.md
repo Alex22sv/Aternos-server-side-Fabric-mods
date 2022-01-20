@@ -77,6 +77,7 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 * Mob proof crystals: [CurseForge](https://aternos.org/addons/a/cursefabric/mob-proof-crystals)
 * Independent Pets: [CurseForge](https://aternos.org/addons/a/cursefabric/indypets)
 * Creeper AI Updated: [CurseForge](https://aternos.org/addons/a/cursefabric/creeper-ai-updated)
+* Steed Stopper: [CurseForge](https://aternos.org/addons/a/cursefabric/steed-stopper)
 
 ## Flight related mods
 * Disable Elytra Flight: [CurseForge](https://aternos.org/addons/a/cursefabric/disable-elytra-flight)
