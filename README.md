@@ -83,8 +83,6 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 * BeaconFlight: [CurseForge](https://aternos.org/addons/a/cursefabric/beaconflight)
 * Walaryne's Fly Mod: [CurseForge](https://aternos.org/addons/a/cursefabric/walarynes-flymod)
 
-## Minecarts related mods
-
 ## Graves & Death related mods
 * VanillaDeathChest: [CurseForge](https://aternos.org/addons/a/cursefabric/vanilladeathchest-fabric)
 * Universal Graves: [CurseForge](https://aternos.org/addons/a/cursefabric/universal-graves) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/yn9u3ypm)
@@ -111,8 +109,6 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 * Essential Commands: [CurseForge](https://aternos.org/addons/a/cursefabric/essential-commands) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/6VdDUivB)
 * Styled Nicknames: [CurseForge](https://aternos.org/addons/a/cursefabric/styled-nicknames)
 
-## Mods for join messages
-
 ## Mods for TP & Homes
 * RandomTP: [CurseForge](https://aternos.org/addons/a/cursefabric/randomtp)
 * Random Teleport: [CurseForge](https://aternos.org/addons/a/cursefabric/random-teleport)
@@ -128,16 +124,17 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 
 ## Inventory related mods
 
-## Server managment related mods
+## Server Managment mods
 
-## Console & log related mods
+## Console & Logs related mods
 
 ## Anticheat related mods
 
-## Mods to link your chat
+## Mods for chat linking
 
 ## Mods for gamemodes
 
 ## World generation mods
 
 ## Economy mods
+
