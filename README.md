@@ -92,7 +92,24 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 * Configured Keep Inventory: [CurseForge](https://aternos.org/addons/a/cursefabric/configured-keep-inventory)
 * keepinventory-command: [CurseForge](https://aternos.org/addons/a/cursefabric/keepinventory-command)
 
-## Commands & chat related mods
+## Commands & Chat related mods
+* Impersonate: [CurseForge](https://aternos.org/addons/a/cursefabric/impersonate)
+* Player Roles: [CurseForge](https://aternos.org/addons/a/cursefabric/player-roles-fabric)
+* FabricTailor: [CurseForge](https://aternos.org/addons/a/cursefabric/fabrictailor) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/g8w1NapE)
+* Image2Map: [CurseForge](https://aternos.org/addons/a/cursefabric/image2map)
+* Drogtor the Nickinator: [CurseForge](https://aternos.org/addons/a/cursefabric/drogtor)
+* Fabrication: [CurseForge](https://aternos.org/addons/a/cursefabric/fabrication)
+* ItemFlexer: [CurseForge](https://aternos.org/addons/a/cursefabric/itemflexer)
+* Sewing Machine Utilities: [CurseForge](https://aternos.org/addons/a/cursefabric/sewing-machine-utilities)
+* Wires: [CurseForge](https://aternos.org/addons/a/cursefabric/wires)
+* GlobalSpawn: [CurseForge](https://aternos.org/addons/a/cursefabric/globalspawn)
+* Chat+: [CurseForge](https://aternos.org/addons/a/cursefabric/chat)
+* TabTPS: [Modrinth](https://aternos.org/addons/a/modrinthfabric/cUhi3iB2)
+* DisguiseLib: [CurseForge](https://aternos.org/addons/a/cursefabric/disguiselib) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/BlRLr0FS)
+* Armor Stand Editor: [CurseForge](https://aternos.org/addons/a/cursefabric/armor-stand-editor)
+* Styled Chat: [CurseForge](https://aternos.org/addons/a/cursefabric/styled-chat)
+* Essential Commands: [CurseForge](https://aternos.org/addons/a/cursefabric/essential-commands) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/6VdDUivB)
+* Styled Nicknames: [CurseForge](https://aternos.org/addons/a/cursefabric/styled-nicknames)
 
 ## Mods for join messages
 
