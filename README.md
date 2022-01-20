@@ -106,7 +106,7 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 * DisguiseLib: [CurseForge](https://aternos.org/addons/a/cursefabric/disguiselib) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/BlRLr0FS)
 * Armor Stand Editor: [CurseForge](https://aternos.org/addons/a/cursefabric/armor-stand-editor)
 * Styled Chat: [CurseForge](https://aternos.org/addons/a/cursefabric/styled-chat)
-* Essential Commands: [CurseForge](https://aternos.org/addons/a/cursefabric/essential-commands)  or [Modrinth](https://aternos.org/addons/a/modrinthfabric/6VdDUivB)
+* Essential Commands: [CurseForge](https://aternos.org/addons/a/cursefabric/essential-commands) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/6VdDUivB)
 * Styled Nicknames: [CurseForge](https://aternos.org/addons/a/cursefabric/styled-nicknames)
 
 ## Mods for TP & Homes
@@ -119,6 +119,12 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 * Lapis Warps: [CurseForge](https://aternos.org/addons/a/cursefabric/lapis-warps)
 * QuickHomes: [CurseForge](https://aternos.org/addons/a/cursefabric/quickhomes)
 * QuickTeleports: [CurseForge](https://aternos.org/addons/a/cursefabric/quickteleports)
+
+## Mods for Permissions & Roles
+* LuckPerms: [CurseForge](https://aternos.org/addons/a/cursefabric/luckperms) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/Vebnzrzj)
+* Player Roles: [CurseForge](https://aternos.org/addons/a/cursefabric/player-roles-fabric)
+* Cyber Permissions: [CurseForge](https://aternos.org/addons/a/cursefabric/cyber-permissions)
+* Wires: [CurseForge](https://aternos.org/addons/a/cursefabric/wires)
 
 ## Mods for claiming & world protection
 
