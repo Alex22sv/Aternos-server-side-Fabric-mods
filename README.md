@@ -79,6 +79,9 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 * Creeper AI Updated: [CurseForge](https://aternos.org/addons/a/cursefabric/creeper-ai-updated)
 
 ## Flight related mods
+* Disable Elytra Flight: [CurseForge](https://aternos.org/addons/a/cursefabric/disable-elytra-flight)
+* BeaconFlight: [CurseForge](https://aternos.org/addons/a/cursefabric/beaconflight)
+* Walaryne's Fly Mod: [CurseForge](https://aternos.org/addons/a/cursefabric/walarynes-flymod)
 
 ## Minecarts related mods
 
