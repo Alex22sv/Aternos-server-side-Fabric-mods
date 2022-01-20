@@ -114,6 +114,15 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 ## Mods for join messages
 
 ## Mods for TP & Homes
+* RandomTP: [CurseForge](https://aternos.org/addons/a/cursefabric/randomtp)
+* Random Teleport: [CurseForge](https://aternos.org/addons/a/cursefabric/random-teleport)
+* Sewing Machine Utilities: [CurseForge](https://aternos.org/addons/a/cursefabric/sewing-machine-utilities)
+* FabricTPA: [CurseForge](https://aternos.org/addons/a/cursefabric/fabrictpa)
+* FabricWarps: [CurseForge](https://aternos.org/addons/a/cursefabric/fabricwarps)
+* FabricHomes: [CurseForge](https://aternos.org/addons/a/cursefabric/fabrichomes)
+* Lapis Warps: [CurseForge](https://aternos.org/addons/a/cursefabric/lapis-warps)
+* QuickHomes: [CurseForge](https://aternos.org/addons/a/cursefabric/quickhomes)
+* QuickTeleports: [CurseForge](https://aternos.org/addons/a/cursefabric/quickteleports)
 
 ## Mods for claiming & world protection
 
