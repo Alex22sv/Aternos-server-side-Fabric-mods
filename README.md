@@ -145,6 +145,32 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 ## Mods for gamemodes
 
 ## World generation mods
+* Simplex Terrain Generation: [CurseForge](https://aternos.org/addons/a/cursefabric/simplex-terrain-generation)
+* Cave Biomes: [CurseForge](https://aternos.org/addons/a/cursefabric/cave-biomes)
+* Survival island: [CurseForge](https://aternos.org/addons/a/cursefabric/fabric-survival-island)
+* Smooth Bedrock: [CurseForge](https://aternos.org/addons/a/cursefabric/blayykes-smooth-bedrock)
+* Repurposed Structures: [CurseForge](https://aternos.org/addons/a/cursefabric/repurposed-structures-fabric) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/muf0XoRe)
+* Climatic World Type: [CurseForge](https://aternos.org/addons/a/cursefabric/climatic-world-type)
+* Lakeside: [CurseForge](https://aternos.org/addons/a/cursefabric/lakeside)
+* Vanilla+ Biomes: [CurseForge](https://aternos.org/addons/a/cursefabric/vanilla-biomes)
+* Smoother Bedrock: [CurseForge](https://aternos.org/addons/a/cursefabric/smoother-bedrock)
+* YUNG's Better Caves: [CurseForge](https://aternos.org/addons/a/cursefabric/yungs-better-caves-fabric)
+* Modern Beta: [CurseForge](https://aternos.org/addons/a/cursefabric/modern-beta)
+* Classic Beaches: [CurseForge](https://aternos.org/addons/a/cursefabric/classic-beaches)
+* YUNG's Better Mineshafts: [CurseForge](https://aternos.org/addons/a/cursefabric/yungs-better-mineshafts-fabric)
+* Mo' Structures: [CurseForge](https://aternos.org/addons/a/cursefabric/mo-structures)
+* Upstream: [CurseForge](https://aternos.org/addons/a/cursefabric/upstream-fabric)
+* Terra: [Modrinth](https://aternos.org/addons/a/modrinthfabric/FIlZB9L0)
+* Stoneholm: [Modrinth](https://aternos.org/addons/a/modrinthfabric/zQoJfY3W)
+* YUNG's Better Strongholds: [CurseForge](https://aternos.org/addons/a/cursefabric/yungs-better-strongholds-fabric)
+* Simply Improved Terrain: [CurseForge](https://aternos.org/addons/a/cursefabric/simply-improved-terrain-fabric)
+* Castle Dungeons: [CurseForge](https://aternos.org/addons/a/cursefabric/castle-dungeons)
+* Cavenabler: [CurseForge](https://aternos.org/addons/a/cursefabric/cavenabler)
+* Stonevaults, Dungeons & Towers: [CurseForge](https://aternos.org/addons/a/cursefabric/stonevaults-dungeons-towers)
+* When Dungeons Arise: [CurseForge](https://aternos.org/addons/a/cursefabric/when-dungeons-arise-fabric)
+* Terralith 2.0 ~ Overworld Evolved: [CurseForge](https://aternos.org/addons/a/cursefabric/terralith)
+* ProtoSky: [CurseForge](https://aternos.org/addons/a/cursefabric/protosky)
+* Sky Villages: [CurseForge](https://aternos.org/addons/a/cursefabric/sky-villages-fabric)
 
 ## Economy mods
 
