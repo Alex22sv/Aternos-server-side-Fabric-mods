@@ -127,7 +127,11 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 * Cyber Permissions: [CurseForge](https://aternos.org/addons/a/cursefabric/cyber-permissions)
 * Wires: [CurseForge](https://aternos.org/addons/a/cursefabric/wires)
 
-## Mods for claiming & world protection
+## Claims/World Protection related mods
+* Flan: [CurseForge](https://aternos.org/addons/a/cursefabric/flan)
+* Sewing Machine Utilities: [CurseForge](https://aternos.org/addons/a/cursefabric/sewing-machine-utilities)
+* Hey That's Mine: [CurseForge](https://aternos.org/addons/a/cursefabric/htm)
+* Factions: [CurseForge](https://aternos.org/addons/a/cursefabric/factions-fabric)
 
 ## Inventory related mods
 
