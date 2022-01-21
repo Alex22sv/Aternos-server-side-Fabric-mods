@@ -142,7 +142,10 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 * mclo.gs: [CurseForge](https://aternos.org/addons/a/cursefabric/mclo-gs)
 * Not Enough Crashes: [CurseForge](https://aternos.org/addons/a/cursefabric/not-enough-crashes) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/yM94ont6)
 
-## Anticheat related mods
+## Mods for Anticheat & Anti X-ray
+* Simple Anti X-Ray: [Modrinth](https://aternos.org/addons/a/modrinthfabric/c0w5Fi8B)
+* GolfIV: [Modrinth](https://aternos.org/addons/a/modrinthfabric/PfKYAJGk)
+* AntiXray: [Modrinth](https://aternos.org/addons/a/modrinthfabric/sml2FMaA)
 
 ## Mods for chat linking
 * Fabric-Discord Link: [CurseForge](https://aternos.org/addons/a/cursefabric/fabric-discord-link)
