@@ -146,7 +146,11 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 
 ## Mods for chat linking
 
-## Mods for gamemodes
+## Mods for Gamemodes/Minigames
+* Manhunt: [CurseForge](https://aternos.org/addons/a/cursefabric/manhunt-fabric)
+* Solar Apocalypse: Refabricated: [CurseForge](https://aternos.org/addons/a/cursefabric/solar-apocalypse-refabricated)
+* Factions: [CurseForge](https://aternos.org/addons/a/cursefabric/factions-fabric)
+* Level = Border: [Modrinth](https://aternos.org/addons/a/modrinthfabric/zyAuOrGS)
 
 ## World generation mods
 * Simplex Terrain Generation: [CurseForge](https://aternos.org/addons/a/cursefabric/simplex-terrain-generation)
