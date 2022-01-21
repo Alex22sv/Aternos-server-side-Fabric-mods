@@ -145,6 +145,9 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 ## Anticheat related mods
 
 ## Mods for chat linking
+* Fabric-Discord Link: [CurseForge](https://aternos.org/addons/a/cursefabric/fabric-discord-link)
+* DisFabric: [CurseForge](https://aternos.org/addons/a/cursefabric/disfabric)
+* MCDiscordChat: [Modrinth](https://aternos.org/addons/a/modrinthfabric/D0sHdnXY)
 
 ## Mods for Gamemodes/Minigames
 * Manhunt: [CurseForge](https://aternos.org/addons/a/cursefabric/manhunt-fabric)
