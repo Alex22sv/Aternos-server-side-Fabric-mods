@@ -134,6 +134,13 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 * Factions: [CurseForge](https://aternos.org/addons/a/cursefabric/factions-fabric)
 
 ## Inventory related mods
+* Lootstrap: [CurseForge](https://aternos.org/addons/a/cursefabric/lootstrap)
+* SimpleServerSorter: [CurseForge](https://aternos.org/addons/a/cursefabric/simpleserversorter)
+* Game Start: [CurseForge](https://aternos.org/addons/a/cursefabric/game-start)
+* Configured Keep Inventory: [CurseForge](https://aternos.org/addons/a/cursefabric/configured-keep-inventory)
+* Inv View: [CurseForge](https://aternos.org/addons/a/cursefabric/inv-view) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/jrDKjZP7)
+* keepinventory-command: [CurseForge](https://aternos.org/addons/a/cursefabric/keepinventory-command)
+* Inventory Sorting: [CurseForge](https://aternos.org/addons/a/cursefabric/inventory-sorting)
 
 ## Server Managment mods
 
