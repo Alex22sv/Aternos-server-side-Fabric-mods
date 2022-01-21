@@ -172,5 +172,7 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 * ProtoSky: [CurseForge](https://aternos.org/addons/a/cursefabric/protosky)
 * Sky Villages: [CurseForge](https://aternos.org/addons/a/cursefabric/sky-villages-fabric)
 
-## Economy mods
+## Economy/Shops mods
+* Grand Economy: [CurseForge](https://aternos.org/addons/a/cursefabric/grand-economy)
+* Sewing Machine Utilities: [CurseForge](https://aternos.org/addons/a/cursefabric/sewing-machine-utilities)
 
