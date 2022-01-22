@@ -248,7 +248,21 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 * Better Nether Map: [Modrinth](https://aternos.org/addons/a/modrinthfabric/fdtm99de)
 
 ## Mods for New Game Mechanics
-
+* Flora Doubling: [CurseForge](https://aternos.org/addons/a/cursefabric/flora-doubling-fabric)
+* Harmful Stonecutters: [CurseForge](https://aternos.org/addons/a/cursefabric/harmful-stonecutters)
+* Fabrication: [CurseForge](https://aternos.org/addons/a/cursefabric/fabrication)
+* Unforgiving Void: [CurseForge](https://aternos.org/addons/a/cursefabric/unforgiving-void)
+* Fire's Survival Tweaks: [CurseForge](https://aternos.org/addons/a/cursefabric/fires-survival-tweaks)
+* Home Camp: [CurseForge](https://aternos.org/addons/a/cursefabric/home-camp)
+* Gentle Picking: [CurseForge](https://aternos.org/addons/a/cursefabric/gentle-picking)
+* Sewing Machine Utilities: [CurseForge](https://aternos.org/addons/a/cursefabric/sewing-machine-utilities)
+* Snowy: [CurseForge](https://aternos.org/addons/a/cursefabric/snowy)
+* Infinity Water Bucket: [CurseForge](https://aternos.org/addons/a/cursefabric/infinity-water-bucket)
+* StitchedSnow: [CurseForge](https://aternos.org/addons/a/cursefabric/stitchedsnow)
+* Notchify: [CurseForge](https://aternos.org/addons/a/cursefabric/notchify)
+* Compostable Rotten Flesh: [CurseForge](https://aternos.org/addons/a/cursefabric/compostable-rotten-flesh)
+* FabricSit: [CurseForge](https://aternos.org/addons/a/cursefabric/fabricsit) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/eM1KzRjc)
+* Snow Under Trees: [CurseForge](https://aternos.org/addons/a/cursefabric/snow-under-trees-fabric)
 
 ## Crafting related mods
 * Nbt Crafting: [CurseForge](https://aternos.org/addons/a/cursefabric/nbt-crafting)
@@ -258,4 +272,7 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 * DeepslateCutting: [CurseForge](https://aternos.org/addons/a/cursefabric/deepslatecutting)
 
 ## Mods for Tab List modifications
+* Styled Player List: [CurseForge](https://aternos.org/addons/a/cursefabric/styled-player-list) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/DQIfKUHf)
+* TabTPS: [Modrinth](https://aternos.org/addons/a/modrinthfabric/cUhi3iB2)
+
 
