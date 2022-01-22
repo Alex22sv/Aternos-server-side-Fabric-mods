@@ -90,6 +90,25 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 * Chunk Saving Fix: [CurseForge](https://aternos.org/addons/a/cursefabric/chunk-saving-fix)
 * AntiShulkerDupe: [Modrinth](https://aternos.org/addons/a/modrinthfabric/t01BRUXb)
 
+## Utility / Quality of Life mods
+* Couplings: [CurseForge](https://aternos.org/addons/a/cursefabric/couplings)
+* SimpleHarvest: [CurseForge](https://aternos.org/addons/a/cursefabric/simpleharvest)
+* SimplerHarvest: [CurseForge](https://aternos.org/addons/a/cursefabric/simplerharvest)
+* Simple Right Click Harvest: [Modrinth](https://aternos.org/addons/a/modrinthfabric/bpx5PN1B)
+* Better Signs & Frames: [CurseForge](https://aternos.org/addons/a/cursefabric/better-signs-and-frames)
+* Suitably Stackable Stew: [CurseForge](https://aternos.org/addons/a/cursefabric/suitably-stackable-stew)
+* Monsters in the Closet: [CurseForge](https://aternos.org/addons/a/cursefabric/monsters-in-the-closet) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/GMA8jFBD)
+* Crowmap: [CurseForge](https://aternos.org/addons/a/cursefabric/crowmap) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/EAe3MQt5)
+* Clumps: [CurseForge](https://aternos.org/addons/a/cursefabric/clumps)
+* HealthCare: [CurseForge](https://aternos.org/addons/a/cursefabric/healthcare) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/NNqujQWr)
+* Playtime Tracker: [Modrinth](https://aternos.org/addons/a/modrinthfabric/injNHLDH)
+* EditSign: [CurseForge](https://aternos.org/addons/a/cursefabric/edit-sign) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/hFMCvH85)
+* Easy Painter: [Modrinth](https://aternos.org/addons/a/modrinthfabric/HygVekKN)
+
+### Cosmetic mods
+* MAmbience: [CurseForge](https://aternos.org/addons/a/cursefabric/mambience)
+* Immersive Cursedness: [Modrinth](https://aternos.org/addons/a/modrinthfabric/lyiXgXNm)
+
 ## Flight related mods
 * Disable Elytra Flight: [CurseForge](https://aternos.org/addons/a/cursefabric/disable-elytra-flight)
 * BeaconFlight: [CurseForge](https://aternos.org/addons/a/cursefabric/beaconflight)
