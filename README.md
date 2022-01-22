@@ -54,6 +54,8 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 * Expanded Weapon Enchanting: [CurseForge](https://aternos.org/addons/a/cursefabric/expanded-weapon-enchanting) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/aa4EyFDP)
 * Grind Enchantments: [CurseForge](https://aternos.org/addons/a/cursefabric/grind-enchantments) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/WC4UgDcZ)
 * Better Impaling: [CurseForge](https://aternos.org/addons/a/cursefabric/better-impaling)
+* Better Than Mending: [CurseForge](https://aternos.org/addons/a/cursefabric/better-than-mending)
+* OverpoweredMending: [CurseForge](https://aternos.org/addons/a/cursefabric/overpowered-mending)
 
 ## Mobs related mods
 * Environmental Creepers: [CurseForge](https://aternos.org/addons/a/cursefabric/environmental-creepers)
@@ -196,6 +198,7 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 * Mo' Structures: [CurseForge](https://aternos.org/addons/a/cursefabric/mo-structures)
 * Upstream: [CurseForge](https://aternos.org/addons/a/cursefabric/upstream-fabric)
 * Terra: [Modrinth](https://aternos.org/addons/a/modrinthfabric/FIlZB9L0)
+* Structure World: [CurseForge](https://aternos.org/addons/a/cursefabric/structure-world)
 * Stoneholm: [Modrinth](https://aternos.org/addons/a/modrinthfabric/zQoJfY3W)
 * YUNG's Better Strongholds: [CurseForge](https://aternos.org/addons/a/cursefabric/yungs-better-strongholds-fabric)
 * Simply Improved Terrain: [CurseForge](https://aternos.org/addons/a/cursefabric/simply-improved-terrain-fabric)
