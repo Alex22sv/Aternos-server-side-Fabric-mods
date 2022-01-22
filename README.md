@@ -79,6 +79,14 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 * Creeper AI Updated: [CurseForge](https://aternos.org/addons/a/cursefabric/creeper-ai-updated)
 * Steed Stopper: [CurseForge](https://aternos.org/addons/a/cursefabric/steed-stopper)
 
+## Mods for bugfixes
+* Wither Cage Fix: [CurseForge](https://aternos.org/addons/a/cursefabric/wither-cage-fix)
+* Fabrication: [CurseForge](https://aternos.org/addons/a/cursefabric/fabrication)
+* Keep Head Names: [Modrinth](https://aternos.org/addons/a/modrinthfabric/2VmW47Rp)
+* Multi World Borders: [CurseForge](https://aternos.org/addons/a/cursefabric/world-border-fix) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/M7MroYMU)
+* Chunk Saving Fix: [CurseForge](https://aternos.org/addons/a/cursefabric/chunk-saving-fix)
+* AntiShulkerDupe: [Modrinth](https://aternos.org/addons/a/modrinthfabric/t01BRUXb)
+
 ## Flight related mods
 * Disable Elytra Flight: [CurseForge](https://aternos.org/addons/a/cursefabric/disable-elytra-flight)
 * BeaconFlight: [CurseForge](https://aternos.org/addons/a/cursefabric/beaconflight)
