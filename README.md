@@ -216,7 +216,11 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 * Sewing Machine Utilities: [CurseForge](https://aternos.org/addons/a/cursefabric/sewing-machine-utilities)
 
 ## Villagers related mods
-
+* VillagerFix: [CurseForge](https://aternos.org/addons/a/cursefabric/villagerfix)
+* InfiniteVillagerTrading: [CurseForge](https://aternos.org/addons/a/cursefabric/infinitevillagertrading) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/FDXO8hkq)
+* Economical Villager Trading: [CurseForge](https://aternos.org/addons/a/cursefabric/economical-villager-trading)
+* Wandering Collector: [CurseForge](https://aternos.org/addons/a/cursefabric/wandering-collector) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/enYiOcBu)
+* Villagers follow Emeralds: [CurseForge](https://aternos.org/addons/a/cursefabric/villagers-follow-emeralds-fabric)
 
 ## Mods for Game Mechanics Tweaks
 
