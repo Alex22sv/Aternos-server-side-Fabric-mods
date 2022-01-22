@@ -14,7 +14,7 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 * Krypton: [CurseForge](https://aternos.org/addons/a/cursefabric/krypton) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/fQEb0iXm)
 * Starlight: [CurseForge](https://aternos.org/addons/a/cursefabric/starlight) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/H8CaAYZC)
 * LazyDFU: [CurseForge](https://aternos.org/addons/a/cursefabric/lazydfu) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/hvFnDODi)
-* Hydrogen: [Modrinth](https://modrinth.com/mod/hydrogen)
+* Hydrogen: [Modrinth](https://aternos.org/addons/a/modrinthfabric/AZomiSrC)
 * FerritCore: [CurseForge](https://aternos.org/addons/a/cursefabric/ferritecore-fabric) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/uXXizFIs)
 * Recipe Cache: [CurseForge](https://aternos.org/addons/a/cursefabric/recipe-cache)
 * Very Many Players: [Modrinth](https://aternos.org/addons/a/modrinthfabric/wnEe9KBa)
@@ -25,11 +25,11 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 ## Tree related mods
 * Leaf Decay: [CurseForge](https://aternos.org/addons/a/cursefabric/leaf-decay)
 * Fast Leaves: [CurseForge](https://aternos.org/addons/a/cursefabric/fast-leaves)
-* FastDecay: [CurseForge]() or [Modrinth](https://aternos.org/addons/a/modrinthfabric/hMiEqUvR)
+* FastDecay: [Modrinth](https://aternos.org/addons/a/modrinthfabric/hMiEqUvR)
 * Leaf Me Alone: [CurseForge](https://aternos.org/addons/a/cursefabric/leaf-me-alone)
 * Fabric Tree Chopper: [CurseForge](https://aternos.org/addons/a/cursefabric/fabric-tree-chopper)
 * FallingTree: [CurseForge](https://aternos.org/addons/a/cursefabric/falling-tree) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/Fb4jn8m6)
-* Tree Felling: [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tree-felling-fabric)
+* Tree Felling: [CurseForge](https://aternos.org/addons/a/cursefabric/tree-felling-fabric)
 * Trees Do Not Float: [CurseForge](https://aternos.org/addons/a/cursefabric/trees-do-not-float)
 
 ## Sleep related mods
