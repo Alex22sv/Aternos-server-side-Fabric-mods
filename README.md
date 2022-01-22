@@ -223,7 +223,29 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 * Villagers follow Emeralds: [CurseForge](https://aternos.org/addons/a/cursefabric/villagers-follow-emeralds-fabric)
 
 ## Mods for Game Mechanics Tweaks
-
+* Fluid Physics: [CurseForge](https://aternos.org/addons/a/cursefabric/fluid-physics)
+* Realistic Fire Spread: [CurseForge](https://aternos.org/addons/a/cursefabric/realistic-fire-spread)
+* Anvil Fix: [CurseForge](https://aternos.org/addons/a/cursefabric/anvil-fix)
+* Piston Control: [CurseForge](https://aternos.org/addons/a/cursefabric/piston-control)
+* Unlimited Dragon Eggs: [CurseForge](https://aternos.org/addons/a/cursefabric/unlimited-dragon-eggs-fabric)
+* Lengthy Ladders: [CurseForge](https://aternos.org/addons/a/cursefabric/lengthy-ladders)
+* Lapis Reserve: [CurseForge](https://aternos.org/addons/a/cursefabric/lapis-reserve)
+* Fence Player Upper: [CurseForge](https://aternos.org/addons/a/cursefabric/fenceplayerupper)
+* Fabrication: [CurseForge](https://aternos.org/addons/a/cursefabric/fabrication)
+* Silky Spawners: [CurseForge](https://aternos.org/addons/a/cursefabric/silky-spawners)
+* Fire's Survival Tweaks: [CurseForge](https://aternos.org/addons/a/cursefabric/fires-survival-tweaks)
+* Sewing Machine Utilities: [CurseForge](https://aternos.org/addons/a/cursefabric/sewing-machine-utilities)
+* Dispenser Configurator: [CurseForge](https://aternos.org/addons/a/cursefabric/dispenser-configurator)
+* No Sneaking Over Magma!: [CurseForge](https://aternos.org/addons/a/cursefabric/no-sneaking-over-magma)
+* Blastproof Netherite: [CurseForge](https://aternos.org/addons/a/cursefabric/blastproof-netherite)
+* Discerning Furnace: [CurseForge](https://aternos.org/addons/a/cursefabric/discerning-furnace)
+* Limited Spawners: [CurseForge](https://aternos.org/addons/a/cursefabric/limited-spawner-fabric)
+* Trample Stopper: [CurseForge](https://aternos.org/addons/a/cursefabric/trample-stopper-fabric)
+* TrampleDisabler: [CurseForge](https://aternos.org/addons/a/cursefabric/trampledisabler-fabric)
+* ParadoxSlabs: [CurseForge](https://aternos.org/addons/a/cursefabric/paradox-slabs)
+* Powershot: [CurseForge](https://aternos.org/addons/a/cursefabric/powershot)
+* Spice of Fabric: [CurseForge](https://aternos.org/addons/a/cursefabric/spice-of-fabric)
+* Better Nether Map: [Modrinth](https://aternos.org/addons/a/modrinthfabric/fdtm99de)
 
 ## Mods for New Game Mechanics
 
@@ -234,7 +256,6 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 * Craftable Enchanted Golden Apple: [CurseForge](https://aternos.org/addons/a/cursefabric/fabric-craftable-enchanted-golden-apple)
 * Gimme bundles!: [CurseForge](https://aternos.org/addons/a/cursefabric/gimme-bundles)
 * DeepslateCutting: [CurseForge](https://aternos.org/addons/a/cursefabric/deepslatecutting)
-* Name: [CurseForge]() or [Modrinth]()
 
 ## Mods for Tab List modifications
 
