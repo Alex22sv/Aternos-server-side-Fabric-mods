@@ -215,3 +215,17 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 * Grand Economy: [CurseForge](https://aternos.org/addons/a/cursefabric/grand-economy)
 * Sewing Machine Utilities: [CurseForge](https://aternos.org/addons/a/cursefabric/sewing-machine-utilities)
 
+## Villagers related mods
+
+
+## Mods for Game Mechanics Tweaks
+
+
+## Mods for New Game Mechanics
+
+
+## Crafting related mods
+
+
+## Mods for Tab List modifications
+
