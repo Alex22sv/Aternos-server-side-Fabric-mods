@@ -229,7 +229,12 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 
 
 ## Crafting related mods
-
+* Nbt Crafting: [CurseForge](https://aternos.org/addons/a/cursefabric/nbt-crafting)
+* Anvil Crushing Recipes: [CurseForge](https://aternos.org/addons/a/cursefabric/anvil-crushing-recipes)
+* Craftable Enchanted Golden Apple: [CurseForge](https://aternos.org/addons/a/cursefabric/fabric-craftable-enchanted-golden-apple)
+* Gimme bundles!: [CurseForge](https://aternos.org/addons/a/cursefabric/gimme-bundles)
+* DeepslateCutting: [CurseForge](https://aternos.org/addons/a/cursefabric/deepslatecutting)
+* Name: [CurseForge]() or [Modrinth]()
 
 ## Mods for Tab List modifications
 
