@@ -150,7 +150,13 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 * keepinventory-command: [CurseForge](https://aternos.org/addons/a/cursefabric/keepinventory-command)
 * Inventory Sorting: [CurseForge](https://aternos.org/addons/a/cursefabric/inventory-sorting)
 
-## Server Managment mods
+## Server Management mods
+* Erroring Entity Remover: [CurseForge](https://aternos.org/addons/a/cursefabric/erroring-entity-remover)
+* Servux: [CurseForge](https://aternos.org/addons/a/cursefabric/servux)
+* ReloadAnnouncer: [CurseForge](https://aternos.org/addons/a/cursefabric/reloadannouncer)
+* TellMe: [CurseForge](https://aternos.org/addons/a/cursefabric/tellme)
+* Wires: [CurseForge](https://aternos.org/addons/a/cursefabric/wires)
+* BanHammer: [CurseForge](https://aternos.org/addons/a/cursefabric/patboxs-banhammer) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/Wpqg0ciI)
 
 ## Console & Logs related mods
 * Fabric Console: [CurseForge](https://aternos.org/addons/a/cursefabric/fabric-console)
