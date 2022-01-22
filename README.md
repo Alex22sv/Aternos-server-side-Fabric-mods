@@ -14,7 +14,7 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 * Krypton: [CurseForge](https://aternos.org/addons/a/cursefabric/krypton) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/fQEb0iXm)
 * Starlight: [CurseForge](https://aternos.org/addons/a/cursefabric/starlight) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/H8CaAYZC)
 * LazyDFU: [CurseForge](https://aternos.org/addons/a/cursefabric/lazydfu) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/hvFnDODi)
-* Hydrogen: [Modrinth](https://modrinth.com/mod/hydrogen)
+* Hydrogen: [Modrinth](https://aternos.org/addons/a/modrinthfabric/AZomiSrC)
 * FerritCore: [CurseForge](https://aternos.org/addons/a/cursefabric/ferritecore-fabric) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/uXXizFIs)
 * Recipe Cache: [CurseForge](https://aternos.org/addons/a/cursefabric/recipe-cache)
 * Very Many Players: [Modrinth](https://aternos.org/addons/a/modrinthfabric/wnEe9KBa)
@@ -25,11 +25,11 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 ## Tree related mods
 * Leaf Decay: [CurseForge](https://aternos.org/addons/a/cursefabric/leaf-decay)
 * Fast Leaves: [CurseForge](https://aternos.org/addons/a/cursefabric/fast-leaves)
-* FastDecay: [CurseForge]() or [Modrinth](https://aternos.org/addons/a/modrinthfabric/hMiEqUvR)
+* FastDecay: [Modrinth](https://aternos.org/addons/a/modrinthfabric/hMiEqUvR)
 * Leaf Me Alone: [CurseForge](https://aternos.org/addons/a/cursefabric/leaf-me-alone)
 * Fabric Tree Chopper: [CurseForge](https://aternos.org/addons/a/cursefabric/fabric-tree-chopper)
 * FallingTree: [CurseForge](https://aternos.org/addons/a/cursefabric/falling-tree) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/Fb4jn8m6)
-* Tree Felling: [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tree-felling-fabric)
+* Tree Felling: [CurseForge](https://aternos.org/addons/a/cursefabric/tree-felling-fabric)
 * Trees Do Not Float: [CurseForge](https://aternos.org/addons/a/cursefabric/trees-do-not-float)
 
 ## Sleep related mods
@@ -40,6 +40,7 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 * BetterSleepPlus: [CurseForge](https://aternos.org/addons/a/cursefabric/bettersleepplus)
 * Day Dream: [CurseForge](https://aternos.org/addons/a/cursefabric/day-dream)
 * Better Safe Bed: [CurseForge](https://aternos.org/addons/a/cursefabric/better-safe-bed)
+* Bed Benefits: [CurseForge](https://aternos.org/addons/a/cursefabric/bed-benefits-fabric)
 
 ## Combat related mods
 * CombatEdit: [CurseForge](https://aternos.org/addons/a/cursefabric/combatedit)
@@ -54,6 +55,8 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 * Expanded Weapon Enchanting: [CurseForge](https://aternos.org/addons/a/cursefabric/expanded-weapon-enchanting) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/aa4EyFDP)
 * Grind Enchantments: [CurseForge](https://aternos.org/addons/a/cursefabric/grind-enchantments) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/WC4UgDcZ)
 * Better Impaling: [CurseForge](https://aternos.org/addons/a/cursefabric/better-impaling)
+* Better Than Mending: [CurseForge](https://aternos.org/addons/a/cursefabric/better-than-mending)
+* OverpoweredMending: [CurseForge](https://aternos.org/addons/a/cursefabric/overpowered-mending)
 
 ## Mobs related mods
 * Environmental Creepers: [CurseForge](https://aternos.org/addons/a/cursefabric/environmental-creepers)
@@ -78,6 +81,33 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 * Independent Pets: [CurseForge](https://aternos.org/addons/a/cursefabric/indypets)
 * Creeper AI Updated: [CurseForge](https://aternos.org/addons/a/cursefabric/creeper-ai-updated)
 * Steed Stopper: [CurseForge](https://aternos.org/addons/a/cursefabric/steed-stopper)
+
+## Mods for bugfixes
+* Wither Cage Fix: [CurseForge](https://aternos.org/addons/a/cursefabric/wither-cage-fix)
+* Fabrication: [CurseForge](https://aternos.org/addons/a/cursefabric/fabrication)
+* Keep Head Names: [Modrinth](https://aternos.org/addons/a/modrinthfabric/2VmW47Rp)
+* Multi World Borders: [CurseForge](https://aternos.org/addons/a/cursefabric/world-border-fix) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/M7MroYMU)
+* Chunk Saving Fix: [CurseForge](https://aternos.org/addons/a/cursefabric/chunk-saving-fix)
+* AntiShulkerDupe: [Modrinth](https://aternos.org/addons/a/modrinthfabric/t01BRUXb)
+
+## Utility / Quality of Life mods
+* Couplings: [CurseForge](https://aternos.org/addons/a/cursefabric/couplings)
+* SimpleHarvest: [CurseForge](https://aternos.org/addons/a/cursefabric/simpleharvest)
+* SimplerHarvest: [CurseForge](https://aternos.org/addons/a/cursefabric/simplerharvest)
+* Simple Right Click Harvest: [Modrinth](https://aternos.org/addons/a/modrinthfabric/bpx5PN1B)
+* Better Signs & Frames: [CurseForge](https://aternos.org/addons/a/cursefabric/better-signs-and-frames)
+* Suitably Stackable Stew: [CurseForge](https://aternos.org/addons/a/cursefabric/suitably-stackable-stew)
+* Monsters in the Closet: [CurseForge](https://aternos.org/addons/a/cursefabric/monsters-in-the-closet) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/GMA8jFBD)
+* Crowmap: [CurseForge](https://aternos.org/addons/a/cursefabric/crowmap) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/EAe3MQt5)
+* Clumps: [CurseForge](https://aternos.org/addons/a/cursefabric/clumps)
+* HealthCare: [CurseForge](https://aternos.org/addons/a/cursefabric/healthcare) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/NNqujQWr)
+* Playtime Tracker: [Modrinth](https://aternos.org/addons/a/modrinthfabric/injNHLDH)
+* EditSign: [CurseForge](https://aternos.org/addons/a/cursefabric/edit-sign) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/hFMCvH85)
+* Easy Painter: [Modrinth](https://aternos.org/addons/a/modrinthfabric/HygVekKN)
+
+### Cosmetic mods
+* MAmbience: [CurseForge](https://aternos.org/addons/a/cursefabric/mambience)
+* Immersive Cursedness: [Modrinth](https://aternos.org/addons/a/modrinthfabric/lyiXgXNm)
 
 ## Flight related mods
 * Disable Elytra Flight: [CurseForge](https://aternos.org/addons/a/cursefabric/disable-elytra-flight)
@@ -121,21 +151,147 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 * QuickHomes: [CurseForge](https://aternos.org/addons/a/cursefabric/quickhomes)
 * QuickTeleports: [CurseForge](https://aternos.org/addons/a/cursefabric/quickteleports)
 
-## Mods for claiming & world protection
+## Mods for Permissions & Roles
+* LuckPerms: [CurseForge](https://aternos.org/addons/a/cursefabric/luckperms) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/Vebnzrzj)
+* Player Roles: [CurseForge](https://aternos.org/addons/a/cursefabric/player-roles-fabric)
+* Cyber Permissions: [CurseForge](https://aternos.org/addons/a/cursefabric/cyber-permissions)
+* Wires: [CurseForge](https://aternos.org/addons/a/cursefabric/wires)
+
+## Claims/World Protection related mods
+* Flan: [CurseForge](https://aternos.org/addons/a/cursefabric/flan)
+* Sewing Machine Utilities: [CurseForge](https://aternos.org/addons/a/cursefabric/sewing-machine-utilities)
+* Hey That's Mine: [CurseForge](https://aternos.org/addons/a/cursefabric/htm)
+* Factions: [CurseForge](https://aternos.org/addons/a/cursefabric/factions-fabric)
 
 ## Inventory related mods
+* Lootstrap: [CurseForge](https://aternos.org/addons/a/cursefabric/lootstrap)
+* SimpleServerSorter: [CurseForge](https://aternos.org/addons/a/cursefabric/simpleserversorter)
+* Game Start: [CurseForge](https://aternos.org/addons/a/cursefabric/game-start)
+* Configured Keep Inventory: [CurseForge](https://aternos.org/addons/a/cursefabric/configured-keep-inventory)
+* Inv View: [CurseForge](https://aternos.org/addons/a/cursefabric/inv-view) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/jrDKjZP7)
+* keepinventory-command: [CurseForge](https://aternos.org/addons/a/cursefabric/keepinventory-command)
+* Inventory Sorting: [CurseForge](https://aternos.org/addons/a/cursefabric/inventory-sorting)
 
-## Server Managment mods
+## Server Management mods
+* Erroring Entity Remover: [CurseForge](https://aternos.org/addons/a/cursefabric/erroring-entity-remover)
+* Servux: [CurseForge](https://aternos.org/addons/a/cursefabric/servux)
+* ReloadAnnouncer: [CurseForge](https://aternos.org/addons/a/cursefabric/reloadannouncer)
+* TellMe: [CurseForge](https://aternos.org/addons/a/cursefabric/tellme)
+* Wires: [CurseForge](https://aternos.org/addons/a/cursefabric/wires)
+* BanHammer: [CurseForge](https://aternos.org/addons/a/cursefabric/patboxs-banhammer) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/Wpqg0ciI)
 
 ## Console & Logs related mods
+* Fabric Console: [CurseForge](https://aternos.org/addons/a/cursefabric/fabric-console)
+* mclo.gs: [CurseForge](https://aternos.org/addons/a/cursefabric/mclo-gs)
+* Not Enough Crashes: [CurseForge](https://aternos.org/addons/a/cursefabric/not-enough-crashes) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/yM94ont6)
 
-## Anticheat related mods
+## Mods for Anticheat & Anti X-ray
+* Simple Anti X-Ray: [Modrinth](https://aternos.org/addons/a/modrinthfabric/c0w5Fi8B)
+* GolfIV: [Modrinth](https://aternos.org/addons/a/modrinthfabric/PfKYAJGk)
+* AntiXray: [Modrinth](https://aternos.org/addons/a/modrinthfabric/sml2FMaA)
 
 ## Mods for chat linking
+* Fabric-Discord Link: [CurseForge](https://aternos.org/addons/a/cursefabric/fabric-discord-link)
+* DisFabric: [CurseForge](https://aternos.org/addons/a/cursefabric/disfabric)
+* MCDiscordChat: [Modrinth](https://aternos.org/addons/a/modrinthfabric/D0sHdnXY)
 
-## Mods for gamemodes
+## Mods for Gamemodes/Minigames
+* Manhunt: [CurseForge](https://aternos.org/addons/a/cursefabric/manhunt-fabric)
+* Solar Apocalypse: Refabricated: [CurseForge](https://aternos.org/addons/a/cursefabric/solar-apocalypse-refabricated)
+* Factions: [CurseForge](https://aternos.org/addons/a/cursefabric/factions-fabric)
+* Level = Border: [Modrinth](https://aternos.org/addons/a/modrinthfabric/zyAuOrGS)
 
 ## World generation mods
+* Simplex Terrain Generation: [CurseForge](https://aternos.org/addons/a/cursefabric/simplex-terrain-generation)
+* Cave Biomes: [CurseForge](https://aternos.org/addons/a/cursefabric/cave-biomes)
+* Survival island: [CurseForge](https://aternos.org/addons/a/cursefabric/fabric-survival-island)
+* Smooth Bedrock: [CurseForge](https://aternos.org/addons/a/cursefabric/blayykes-smooth-bedrock)
+* Repurposed Structures: [CurseForge](https://aternos.org/addons/a/cursefabric/repurposed-structures-fabric) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/muf0XoRe)
+* Climatic World Type: [CurseForge](https://aternos.org/addons/a/cursefabric/climatic-world-type)
+* Lakeside: [CurseForge](https://aternos.org/addons/a/cursefabric/lakeside)
+* Vanilla+ Biomes: [CurseForge](https://aternos.org/addons/a/cursefabric/vanilla-biomes)
+* Smoother Bedrock: [CurseForge](https://aternos.org/addons/a/cursefabric/smoother-bedrock)
+* YUNG's Better Caves: [CurseForge](https://aternos.org/addons/a/cursefabric/yungs-better-caves-fabric)
+* Modern Beta: [CurseForge](https://aternos.org/addons/a/cursefabric/modern-beta)
+* Classic Beaches: [CurseForge](https://aternos.org/addons/a/cursefabric/classic-beaches)
+* YUNG's Better Mineshafts: [CurseForge](https://aternos.org/addons/a/cursefabric/yungs-better-mineshafts-fabric)
+* Mo' Structures: [CurseForge](https://aternos.org/addons/a/cursefabric/mo-structures)
+* Upstream: [CurseForge](https://aternos.org/addons/a/cursefabric/upstream-fabric)
+* Terra: [Modrinth](https://aternos.org/addons/a/modrinthfabric/FIlZB9L0)
+* Structure World: [CurseForge](https://aternos.org/addons/a/cursefabric/structure-world)
+* Stoneholm: [Modrinth](https://aternos.org/addons/a/modrinthfabric/zQoJfY3W)
+* YUNG's Better Strongholds: [CurseForge](https://aternos.org/addons/a/cursefabric/yungs-better-strongholds-fabric)
+* Simply Improved Terrain: [CurseForge](https://aternos.org/addons/a/cursefabric/simply-improved-terrain-fabric)
+* Castle Dungeons: [CurseForge](https://aternos.org/addons/a/cursefabric/castle-dungeons)
+* Cavenabler: [CurseForge](https://aternos.org/addons/a/cursefabric/cavenabler)
+* Stonevaults, Dungeons & Towers: [CurseForge](https://aternos.org/addons/a/cursefabric/stonevaults-dungeons-towers)
+* When Dungeons Arise: [CurseForge](https://aternos.org/addons/a/cursefabric/when-dungeons-arise-fabric)
+* Terralith 2.0 ~ Overworld Evolved: [CurseForge](https://aternos.org/addons/a/cursefabric/terralith)
+* ProtoSky: [CurseForge](https://aternos.org/addons/a/cursefabric/protosky)
+* Sky Villages: [CurseForge](https://aternos.org/addons/a/cursefabric/sky-villages-fabric)
 
-## Economy mods
+## Economy/Shops mods
+* Grand Economy: [CurseForge](https://aternos.org/addons/a/cursefabric/grand-economy)
+* Sewing Machine Utilities: [CurseForge](https://aternos.org/addons/a/cursefabric/sewing-machine-utilities)
+
+## Villagers related mods
+* VillagerFix: [CurseForge](https://aternos.org/addons/a/cursefabric/villagerfix)
+* InfiniteVillagerTrading: [CurseForge](https://aternos.org/addons/a/cursefabric/infinitevillagertrading) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/FDXO8hkq)
+* Economical Villager Trading: [CurseForge](https://aternos.org/addons/a/cursefabric/economical-villager-trading)
+* Wandering Collector: [CurseForge](https://aternos.org/addons/a/cursefabric/wandering-collector) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/enYiOcBu)
+* Villagers follow Emeralds: [CurseForge](https://aternos.org/addons/a/cursefabric/villagers-follow-emeralds-fabric)
+
+## Mods for Game Mechanics Tweaks
+* Fluid Physics: [CurseForge](https://aternos.org/addons/a/cursefabric/fluid-physics)
+* Realistic Fire Spread: [CurseForge](https://aternos.org/addons/a/cursefabric/realistic-fire-spread)
+* Anvil Fix: [CurseForge](https://aternos.org/addons/a/cursefabric/anvil-fix)
+* Piston Control: [CurseForge](https://aternos.org/addons/a/cursefabric/piston-control)
+* Unlimited Dragon Eggs: [CurseForge](https://aternos.org/addons/a/cursefabric/unlimited-dragon-eggs-fabric)
+* Lengthy Ladders: [CurseForge](https://aternos.org/addons/a/cursefabric/lengthy-ladders)
+* Lapis Reserve: [CurseForge](https://aternos.org/addons/a/cursefabric/lapis-reserve)
+* Fence Player Upper: [CurseForge](https://aternos.org/addons/a/cursefabric/fenceplayerupper)
+* Fabrication: [CurseForge](https://aternos.org/addons/a/cursefabric/fabrication)
+* Silky Spawners: [CurseForge](https://aternos.org/addons/a/cursefabric/silky-spawners)
+* Fire's Survival Tweaks: [CurseForge](https://aternos.org/addons/a/cursefabric/fires-survival-tweaks)
+* Sewing Machine Utilities: [CurseForge](https://aternos.org/addons/a/cursefabric/sewing-machine-utilities)
+* Dispenser Configurator: [CurseForge](https://aternos.org/addons/a/cursefabric/dispenser-configurator)
+* No Sneaking Over Magma!: [CurseForge](https://aternos.org/addons/a/cursefabric/no-sneaking-over-magma)
+* Blastproof Netherite: [CurseForge](https://aternos.org/addons/a/cursefabric/blastproof-netherite)
+* Discerning Furnace: [CurseForge](https://aternos.org/addons/a/cursefabric/discerning-furnace)
+* Limited Spawners: [CurseForge](https://aternos.org/addons/a/cursefabric/limited-spawner-fabric)
+* Trample Stopper: [CurseForge](https://aternos.org/addons/a/cursefabric/trample-stopper-fabric)
+* TrampleDisabler: [CurseForge](https://aternos.org/addons/a/cursefabric/trampledisabler-fabric)
+* ParadoxSlabs: [CurseForge](https://aternos.org/addons/a/cursefabric/paradox-slabs)
+* Powershot: [CurseForge](https://aternos.org/addons/a/cursefabric/powershot)
+* Spice of Fabric: [CurseForge](https://aternos.org/addons/a/cursefabric/spice-of-fabric)
+* Better Nether Map: [Modrinth](https://aternos.org/addons/a/modrinthfabric/fdtm99de)
+
+## Mods for New Game Mechanics
+* Flora Doubling: [CurseForge](https://aternos.org/addons/a/cursefabric/flora-doubling-fabric)
+* Harmful Stonecutters: [CurseForge](https://aternos.org/addons/a/cursefabric/harmful-stonecutters)
+* Fabrication: [CurseForge](https://aternos.org/addons/a/cursefabric/fabrication)
+* Unforgiving Void: [CurseForge](https://aternos.org/addons/a/cursefabric/unforgiving-void)
+* Fire's Survival Tweaks: [CurseForge](https://aternos.org/addons/a/cursefabric/fires-survival-tweaks)
+* Home Camp: [CurseForge](https://aternos.org/addons/a/cursefabric/home-camp)
+* Gentle Picking: [CurseForge](https://aternos.org/addons/a/cursefabric/gentle-picking)
+* Sewing Machine Utilities: [CurseForge](https://aternos.org/addons/a/cursefabric/sewing-machine-utilities)
+* Snowy: [CurseForge](https://aternos.org/addons/a/cursefabric/snowy)
+* Infinity Water Bucket: [CurseForge](https://aternos.org/addons/a/cursefabric/infinity-water-bucket)
+* StitchedSnow: [CurseForge](https://aternos.org/addons/a/cursefabric/stitchedsnow)
+* Notchify: [CurseForge](https://aternos.org/addons/a/cursefabric/notchify)
+* Compostable Rotten Flesh: [CurseForge](https://aternos.org/addons/a/cursefabric/compostable-rotten-flesh)
+* FabricSit: [CurseForge](https://aternos.org/addons/a/cursefabric/fabricsit) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/eM1KzRjc)
+* Snow Under Trees: [CurseForge](https://aternos.org/addons/a/cursefabric/snow-under-trees-fabric)
+
+## Crafting related mods
+* Nbt Crafting: [CurseForge](https://aternos.org/addons/a/cursefabric/nbt-crafting)
+* Anvil Crushing Recipes: [CurseForge](https://aternos.org/addons/a/cursefabric/anvil-crushing-recipes)
+* Craftable Enchanted Golden Apple: [CurseForge](https://aternos.org/addons/a/cursefabric/fabric-craftable-enchanted-golden-apple)
+* Gimme bundles!: [CurseForge](https://aternos.org/addons/a/cursefabric/gimme-bundles)
+* DeepslateCutting: [CurseForge](https://aternos.org/addons/a/cursefabric/deepslatecutting)
+
+## Mods for Tab List modifications
+* Styled Player List: [CurseForge](https://aternos.org/addons/a/cursefabric/styled-player-list) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/DQIfKUHf)
+* TabTPS: [Modrinth](https://aternos.org/addons/a/modrinthfabric/cUhi3iB2)
+
 
