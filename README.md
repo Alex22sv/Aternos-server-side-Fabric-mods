@@ -105,7 +105,7 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 * EditSign: [CurseForge](https://aternos.org/addons/a/cursefabric/edit-sign) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/hFMCvH85)
 * Easy Painter: [Modrinth](https://aternos.org/addons/a/modrinthfabric/HygVekKN)
 
-### Cosmetic mods
+## Cosmetic mods
 * MAmbience: [CurseForge](https://aternos.org/addons/a/cursefabric/mambience)
 * Immersive Cursedness: [Modrinth](https://aternos.org/addons/a/modrinthfabric/lyiXgXNm)
 
