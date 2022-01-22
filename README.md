@@ -40,6 +40,7 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 * BetterSleepPlus: [CurseForge](https://aternos.org/addons/a/cursefabric/bettersleepplus)
 * Day Dream: [CurseForge](https://aternos.org/addons/a/cursefabric/day-dream)
 * Better Safe Bed: [CurseForge](https://aternos.org/addons/a/cursefabric/better-safe-bed)
+* Bed Benefits: [CurseForge](https://aternos.org/addons/a/cursefabric/bed-benefits-fabric)
 
 ## Combat related mods
 * CombatEdit: [CurseForge](https://aternos.org/addons/a/cursefabric/combatedit)
