@@ -294,4 +294,7 @@ Note: Most mods require the mod [Fabric API](https://aternos.org/addons/a/cursef
 * Styled Player List: [CurseForge](https://aternos.org/addons/a/cursefabric/styled-player-list) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/DQIfKUHf)
 * TabTPS: [Modrinth](https://aternos.org/addons/a/modrinthfabric/cUhi3iB2)
 
-
+## Mods for Logging/auditing
+* Ledger: [Modrinth](https://aternos.org/addons/a/modrinthfabric/LVN9ygNV)
+* Sewing Machine Utilities: [CurseForge](https://aternos.org/addons/a/cursefabric/sewing-machine-utilities)
+* CommandSpy: [CurseForge](https://aternos.org/addons/a/cursefabric/commandspy)
