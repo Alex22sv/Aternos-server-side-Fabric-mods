@@ -296,5 +296,6 @@ Reminder: If you get the error "File not found", it means you haven't installed 
 
 ## Mods for Logging/auditing
 * Ledger: [Modrinth](https://aternos.org/addons/a/modrinthfabric/LVN9ygNV)
+* DeltaLogger: [Modrinth](https://aternos.org/addons/a/modrinthfabric/WgFOx7Xi)
 * Sewing Machine Utilities: [CurseForge](https://aternos.org/addons/a/cursefabric/sewing-machine-utilities)
 * CommandSpy: [CurseForge](https://aternos.org/addons/a/cursefabric/commandspy)
