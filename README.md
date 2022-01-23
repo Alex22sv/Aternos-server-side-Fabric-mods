@@ -299,3 +299,7 @@ Reminder: If you get the error "File not found", it means you haven't installed 
 * DeltaLogger: [Modrinth](https://aternos.org/addons/a/modrinthfabric/WgFOx7Xi)
 * Sewing Machine Utilities: [CurseForge](https://aternos.org/addons/a/cursefabric/sewing-machine-utilities)
 * CommandSpy: [CurseForge](https://aternos.org/addons/a/cursefabric/commandspy)
+
+## Pregeneration mods
+* Fabric Chunk Pregenerator: [CurseForge](https://aternos.org/addons/a/cursefabric/chunk-pregenerator-fabric)
+* Chunky Pregenerator: [CurseForge](https://aternos.org/addons/a/cursefabric/chunky-pregenerator)
