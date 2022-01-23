@@ -172,6 +172,10 @@ Reminder: If you get the error "File not found", it means you haven't installed 
 * keepinventory-command: [CurseForge](https://aternos.org/addons/a/cursefabric/keepinventory-command)
 * Inventory Sorting: [CurseForge](https://aternos.org/addons/a/cursefabric/inventory-sorting)
 
+## Skin related mods
+* FabricTailor: [CurseForge](https://aternos.org/addons/a/cursefabric/fabrictailor) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/g8w1NapE)
+* SkinRestorer: [CurseForge](https://aternos.org/addons/a/cursefabric/skinrestorer)
+
 ## Server Management mods
 * Erroring Entity Remover: [CurseForge](https://aternos.org/addons/a/cursefabric/erroring-entity-remover)
 * Servux: [CurseForge](https://aternos.org/addons/a/cursefabric/servux)
