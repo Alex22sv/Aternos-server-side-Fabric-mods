@@ -136,8 +136,8 @@ Reminder: If you get the error "File not found", it means you haven't installed 
 * Chat+: [CurseForge](https://aternos.org/addons/a/cursefabric/chat)
 * TabTPS: [Modrinth](https://aternos.org/addons/a/modrinthfabric/cUhi3iB2)
 * DisguiseLib: [CurseForge](https://aternos.org/addons/a/cursefabric/disguiselib) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/BlRLr0FS)
-* Armor Stand Editor: [CurseForge](https://aternos.org/addons/a/cursefabric/armor-stand-editor)
-* Styled Chat: [CurseForge](https://aternos.org/addons/a/cursefabric/styled-chat)
+* Armor Stand Editor: [CurseForge](https://aternos.org/addons/a/cursefabric/armor-stand-editor) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/Ef9ZREBZ)
+* Styled Chat: [CurseForge](https://aternos.org/addons/a/cursefabric/styled-chat) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/doqSKB0e)
 * Essential Commands: [CurseForge](https://aternos.org/addons/a/cursefabric/essential-commands) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/6VdDUivB)
 * Styled Nicknames: [CurseForge](https://aternos.org/addons/a/cursefabric/styled-nicknames)
 
@@ -161,7 +161,7 @@ Reminder: If you get the error "File not found", it means you haven't installed 
 ## Claims/World Protection related mods
 * Flan: [CurseForge](https://aternos.org/addons/a/cursefabric/flan)
 * Sewing Machine Utilities: [CurseForge](https://aternos.org/addons/a/cursefabric/sewing-machine-utilities)
-* Hey That's Mine: [CurseForge](https://aternos.org/addons/a/cursefabric/htm)
+* Hey That's Mine: [CurseForge](https://aternos.org/addons/a/cursefabric/htm) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/IEPAK5x6)
 * Factions: [CurseForge](https://aternos.org/addons/a/cursefabric/factions-fabric)
 
 ## Inventory related mods
@@ -244,7 +244,7 @@ Reminder: If you get the error "File not found", it means you haven't installed 
 * InfiniteVillagerTrading: [CurseForge](https://aternos.org/addons/a/cursefabric/infinitevillagertrading) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/FDXO8hkq)
 * Economical Villager Trading: [CurseForge](https://aternos.org/addons/a/cursefabric/economical-villager-trading)
 * Wandering Collector: [CurseForge](https://aternos.org/addons/a/cursefabric/wandering-collector) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/enYiOcBu)
-* Villagers follow Emeralds: [CurseForge](https://aternos.org/addons/a/cursefabric/villagers-follow-emeralds-fabric)
+* Villagers follow Emeralds: [CurseForge](https://aternos.org/addons/a/cursefabric/villagers-follow-emeralds-fabric) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/lH4RabB7)
 
 ## Mods for Game Mechanics Tweaks
 * Fluid Physics: [CurseForge](https://aternos.org/addons/a/cursefabric/fluid-physics)
