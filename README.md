@@ -87,6 +87,7 @@ Reminder: If you get the error "File not found", it means you haven't installed 
 * Fabrication: [CurseForge](https://aternos.org/addons/a/cursefabric/fabrication)
 * Keep Head Names: [Modrinth](https://aternos.org/addons/a/modrinthfabric/2VmW47Rp)
 * Multi World Borders: [CurseForge](https://aternos.org/addons/a/cursefabric/world-border-fix) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/M7MroYMU)
+* FabricCrossDimTPFix : [Modrinth](https://aternos.org/addons/a/modrinthfabric/q1O2IGx6)
 * Chunk Saving Fix: [CurseForge](https://aternos.org/addons/a/cursefabric/chunk-saving-fix)
 * AntiShulkerDupe: [Modrinth](https://aternos.org/addons/a/modrinthfabric/t01BRUXb)
 
