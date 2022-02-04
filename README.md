@@ -10,7 +10,6 @@ Reminder: If you get the error "File not found", it means you haven't installed 
 * Lithium: [CurseForge](https://aternos.org/addons/a/cursefabric/lithium) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/gvQqBUqZ)
 * Fast Furnace for Fabric: [CurseForge](https://aternos.org/addons/a/cursefabric/fast-furnace-for-fabric)
 * RandomPatches: [CurseForge](https://aternos.org/addons/a/cursefabric/randompatches-fabric) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/JmtW1Cr5)
-* Overworld Two: [CurseForge](https://aternos.org/addons/a/cursefabric/overworld-two)
 * Krypton: [CurseForge](https://aternos.org/addons/a/cursefabric/krypton) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/fQEb0iXm)
 * Starlight: [CurseForge](https://aternos.org/addons/a/cursefabric/starlight) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/H8CaAYZC)
 * LazyDFU: [CurseForge](https://aternos.org/addons/a/cursefabric/lazydfu) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/hvFnDODi)
