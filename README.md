@@ -107,6 +107,7 @@ Reminder: If you get the error "File not found", it means you haven't installed 
 
 ## Cosmetic mods
 * MAmbience: [CurseForge](https://aternos.org/addons/a/cursefabric/mambience)
+* Villager Names: [CurseForge](https://aternos.org/addons/a/cursefabric/villager-names-fabric)
 * Immersive Cursedness: [Modrinth](https://aternos.org/addons/a/modrinthfabric/lyiXgXNm)
 
 ## Flight related mods
@@ -267,12 +268,14 @@ Reminder: If you get the error "File not found", it means you haven't installed 
 * TrampleDisabler: [CurseForge](https://aternos.org/addons/a/cursefabric/trampledisabler-fabric)
 * ParadoxSlabs: [CurseForge](https://aternos.org/addons/a/cursefabric/paradox-slabs)
 * Powershot: [CurseForge](https://aternos.org/addons/a/cursefabric/powershot)
+* Better Beacon: [CurseForge](https://aternos.org/addons/a/cursefabric/better-beacon)
 * Spice of Fabric: [CurseForge](https://aternos.org/addons/a/cursefabric/spice-of-fabric)
 * Better Nether Map: [Modrinth](https://aternos.org/addons/a/modrinthfabric/fdtm99de)
 
 ## Mods for New Game Mechanics
 * Flora Doubling: [CurseForge](https://aternos.org/addons/a/cursefabric/flora-doubling-fabric)
 * Harmful Stonecutters: [CurseForge](https://aternos.org/addons/a/cursefabric/harmful-stonecutters)
+* Imbued Torches: [CurseForge](https://aternos.org/addons/a/cursefabric/imbued-torches)
 * Fabrication: [CurseForge](https://aternos.org/addons/a/cursefabric/fabrication)
 * Unforgiving Void: [CurseForge](https://aternos.org/addons/a/cursefabric/unforgiving-void)
 * Fire's Survival Tweaks: [CurseForge](https://aternos.org/addons/a/cursefabric/fires-survival-tweaks)
@@ -284,6 +287,7 @@ Reminder: If you get the error "File not found", it means you haven't installed 
 * StitchedSnow: [CurseForge](https://aternos.org/addons/a/cursefabric/stitchedsnow)
 * Notchify: [CurseForge](https://aternos.org/addons/a/cursefabric/notchify)
 * Compostable Rotten Flesh: [CurseForge](https://aternos.org/addons/a/cursefabric/compostable-rotten-flesh)
+* SlimyFloor: [CurseForge](https://aternos.org/addons/a/cursefabric/slimyfloor)
 * FabricSit: [CurseForge](https://aternos.org/addons/a/cursefabric/fabricsit) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/eM1KzRjc)
 * Snow Under Trees: [CurseForge](https://aternos.org/addons/a/cursefabric/snow-under-trees-fabric)
 
