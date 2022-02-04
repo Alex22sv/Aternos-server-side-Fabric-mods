@@ -56,6 +56,7 @@ Reminder: If you get the error "File not found", it means you haven't installed 
 * Better Impaling: [CurseForge](https://aternos.org/addons/a/cursefabric/better-impaling)
 * Better Than Mending: [CurseForge](https://aternos.org/addons/a/cursefabric/better-than-mending)
 * OverpoweredMending: [CurseForge](https://aternos.org/addons/a/cursefabric/overpowered-mending)
+* Disable Riptide: [CurseForge](https://aternos.org/addons/a/cursefabric/disable-riptide) 
 
 ## Mobs related mods
 * Environmental Creepers: [CurseForge](https://aternos.org/addons/a/cursefabric/environmental-creepers)
