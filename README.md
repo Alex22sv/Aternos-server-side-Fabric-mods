@@ -311,7 +311,7 @@ Reminder: If you get the error "File not found", it means you haven't installed 
 
 ## Pregeneration mods
 * Fabric Chunk Pregenerator: [CurseForge](https://aternos.org/addons/a/cursefabric/chunk-pregenerator-fabric)
-* Chunky Pregenerator: [CurseForge](https://aternos.org/addons/a/cursefabric/chunky-pregenerator)
+* Chunky Pregenerator: [CurseForge](https://aternos.org/addons/a/cursefabric/chunky-pregenerator) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/fALzjamp)
 
 ## Mods that affect the game behavior
 * FabricSit: [CurseForge](https://aternos.org/addons/a/cursefabric/fabricsit) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/eM1KzRjc)
