@@ -18,6 +18,15 @@ Reminder: If you get the error "File not found", it means you haven't installed 
 * Recipe Cache: [CurseForge](https://aternos.org/addons/a/cursefabric/recipe-cache)
 * Very Many Players: [Modrinth](https://aternos.org/addons/a/modrinthfabric/wnEe9KBa)
 
+## Mods that affect the game behavior
+* Alternate Current: [CurseForge](https://aternos.org/addons/a/cursefabric/alternate-current) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/r0v8vy1s)
+* TickTools: [Modrinth](https://aternos.org/addons/a/modrinthfabric/EXBW22iA)
+* ServerCore: [Modrinth](https://aternos.org/addons/a/modrinthfabric/4WWQxlQP)
+* Ksyxis: [CurseForge](https://aternos.org/addons/a/cursefabric/ksyxis) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/2ecVyZ49)
+* Overworld Two: [CurseForge](https://aternos.org/addons/a/cursefabric/overworld-two)
+* FabricSit: [CurseForge](https://aternos.org/addons/a/cursefabric/fabricsit) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/eM1KzRjc)
+* 
+
 ## Building mods
 * WorldEdit: [CurseForge](https://aternos.org/addons/a/cursefabric/worldedit)
 
@@ -313,6 +322,3 @@ Reminder: If you get the error "File not found", it means you haven't installed 
 * Fabric Chunk Pregenerator: [CurseForge](https://aternos.org/addons/a/cursefabric/chunk-pregenerator-fabric)
 * Chunky Pregenerator: [CurseForge](https://aternos.org/addons/a/cursefabric/chunky-pregenerator) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/fALzjamp)
 
-## Mods that affect the game behavior
-* FabricSit: [CurseForge](https://aternos.org/addons/a/cursefabric/fabricsit) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/eM1KzRjc)
-* 
