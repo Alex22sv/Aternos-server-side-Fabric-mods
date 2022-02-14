@@ -53,6 +53,7 @@ Reminder: If you get the error "File not found", it means you haven't installed 
 * Headshot: [CurseForge](https://aternos.org/addons/a/cursefabric/headshot)
 * Axes Are Weapons: [CurseForge](https://aternos.org/addons/a/cursefabric/axes-are-weapons) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/1jvt7RTc)
 * Perfect Accuracy: [Modrinth](https://aternos.org/addons/a/modrinthfabric/ochFsQSn)
+* Infinity Fix: [CurseForge](https://aternos.org/addons/a/cursefabric/infinity-fix)
 
 ## Mods for enchanting & enchantments
 * Expanded Axe Enchanting: [CurseForge](https://aternos.org/addons/a/cursefabric/expanded-axe-enchanting) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/nmJ9dZtI)
