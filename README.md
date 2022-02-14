@@ -96,6 +96,7 @@ Reminder: If you get the error "File not found", it means you haven't installed 
 * Multi World Borders: [CurseForge](https://aternos.org/addons/a/cursefabric/world-border-fix) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/M7MroYMU)
 * FabricCrossDimTPFix : [Modrinth](https://aternos.org/addons/a/modrinthfabric/q1O2IGx6)
 * Chunk Saving Fix: [CurseForge](https://aternos.org/addons/a/cursefabric/chunk-saving-fix)
+* TimeOutOut: [CurseForge](https://aternos.org/addons/a/cursefabric/timeoutout-fabric)
 * AntiShulkerDupe: [Modrinth](https://aternos.org/addons/a/modrinthfabric/t01BRUXb)
 
 ## Utility / Quality of Life mods
