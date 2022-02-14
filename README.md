@@ -24,8 +24,6 @@ Reminder: If you get the error "File not found", it means you haven't installed 
 * ServerCore: [Modrinth](https://aternos.org/addons/a/modrinthfabric/4WWQxlQP)
 * Ksyxis: [CurseForge](https://aternos.org/addons/a/cursefabric/ksyxis) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/2ecVyZ49)
 * Overworld Two: [CurseForge](https://aternos.org/addons/a/cursefabric/overworld-two)
-* FabricSit: [CurseForge](https://aternos.org/addons/a/cursefabric/fabricsit) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/eM1KzRjc)
-* 
 
 ## Building mods
 * WorldEdit: [CurseForge](https://aternos.org/addons/a/cursefabric/worldedit)
