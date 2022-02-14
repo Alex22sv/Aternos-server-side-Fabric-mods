@@ -16,7 +16,7 @@ Reminder: If you get the error "File not found", it means you haven't installed 
 * Hydrogen: [Modrinth](https://aternos.org/addons/a/modrinthfabric/AZomiSrC)
 * FerritCore: [CurseForge](https://aternos.org/addons/a/cursefabric/ferritecore-fabric) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/uXXizFIs)
 * Recipe Cache: [CurseForge](https://aternos.org/addons/a/cursefabric/recipe-cache)
-* Very Many Players: [Modrinth](https://aternos.org/addons/a/modrinthfabric/wnEe9KBa)
+* Very Many Players: [CurseForge](https://aternos.org/addons/a/cursefabric/vmp-fabric) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/wnEe9KBa)
 
 ## Mods that affect the game behavior
 * Alternate Current: [CurseForge](https://aternos.org/addons/a/cursefabric/alternate-current) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/r0v8vy1s)
