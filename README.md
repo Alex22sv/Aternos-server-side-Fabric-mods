@@ -230,7 +230,7 @@ Reminder: If you get the error "File not found", it means you haven't installed 
 * Modern Beta: [CurseForge](https://aternos.org/addons/a/cursefabric/modern-beta)
 * Classic Beaches: [CurseForge](https://aternos.org/addons/a/cursefabric/classic-beaches)
 * YUNG's Better Mineshafts: [CurseForge](https://aternos.org/addons/a/cursefabric/yungs-better-mineshafts-fabric)
-* Mo' Structures: [CurseForge](https://aternos.org/addons/a/cursefabric/mo-structures)
+* Mo' Structures: [CurseForge](https://aternos.org/addons/a/cursefabric/mo-structures) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/PTGd6dWp)
 * Upstream: [CurseForge](https://aternos.org/addons/a/cursefabric/upstream-fabric)
 * Terra: [Modrinth](https://aternos.org/addons/a/modrinthfabric/FIlZB9L0)
 * Structure World: [CurseForge](https://aternos.org/addons/a/cursefabric/structure-world)
