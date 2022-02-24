@@ -321,7 +321,7 @@ Reminder: If you get the error "File not found", it means you haven't installed 
 ## Mods for Profiling/Debugging
 * Spark: [CurseForge](https://aternos.org/addons/a/cursefabric/spark) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/l6YH9Als)
 * MixinTrace: [CurseForge](https://aternos.org/addons/a/cursefabric/mixintrace)
-* Blame: [CurseForge](https://aternos.org/addons/a/cursefabric/blame-fabric)
+* Blame: [CurseForge](https://aternos.org/addons/a/cursefabric/blame-fabric) or [Modrinth](https://aternos.org/addons/a/modrinthfabric/kbYX74kg)
 
 ## Pregeneration mods
 * Fabric Chunk Pregenerator: [CurseForge](https://aternos.org/addons/a/cursefabric/chunk-pregenerator-fabric)
