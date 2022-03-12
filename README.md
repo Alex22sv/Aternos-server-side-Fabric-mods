@@ -215,6 +215,7 @@ Reminder: If you get the error "File not found", it means you haven't installed 
 * Solar Apocalypse: Refabricated: [CurseForge](https://aternos.org/addons/a/cursefabric/solar-apocalypse-refabricated)
 * Factions: [CurseForge](https://aternos.org/addons/a/cursefabric/factions-fabric)
 * Level = Border: [Modrinth](https://aternos.org/addons/a/modrinthfabric/zyAuOrGS)
+* LifeSteal: [CurseForge](https://aternos.org/addons/a/cursefabric/lifesteal)
 
 ## World generation mods
 * Simplex Terrain Generation: [CurseForge](https://aternos.org/addons/a/cursefabric/simplex-terrain-generation)
