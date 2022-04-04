@@ -284,6 +284,7 @@ Reminder: If you get the error "File not found", it means you haven't installed 
 * Better Nether Map: [Modrinth](https://aternos.org/addons/a/modrinthfabric/fdtm99de)
 
 ## Mods for New Game Mechanics
+* Origins: [Modrinth](https://aternos.org/addons/a/modrinthfabric/3BeIrqZR)
 * Flora Doubling: [CurseForge](https://aternos.org/addons/a/cursefabric/flora-doubling-fabric)
 * Harmful Stonecutters: [CurseForge](https://aternos.org/addons/a/cursefabric/harmful-stonecutters)
 * Imbued Torches: [CurseForge](https://aternos.org/addons/a/cursefabric/imbued-torches)
